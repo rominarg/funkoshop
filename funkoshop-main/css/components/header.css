@@ -73,6 +73,3 @@ header {
     transition: filter .3s ease;
 }
 
-.logo__branding:hover {
-    filter: brightness(1.6);
-}
